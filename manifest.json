@@ -1,0 +1,10 @@
+{
+  "id": "translate-plugin-settings",
+  "name": "插件设置汉化器",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "将其他插件的设置界面汉化（使用 Google Translate API）",
+  "author": "你",
+  "authorUrl": "",
+  "main": "main.js"
+}
