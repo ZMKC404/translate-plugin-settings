@@ -3,8 +3,9 @@
   "name": "插件设置汉化器",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "将其他插件的设置界面汉化（使用 Google Translate API）",
-  "author": "你",
+  "description": "一键将插件的设置界面汉化（支持 Google Translate API）",
+  "author": "zmkcarmy",
   "authorUrl": "",
-  "main": "main.js"
+  "main": "main.js",
+  "isDesktopOnly": true
 }
